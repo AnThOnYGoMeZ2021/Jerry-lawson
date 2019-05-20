@@ -1,0 +1,29 @@
+
+  body {background-image: url("http://www.ucatx.cat/wallpic/full/0/3453/nice-wallpaper-hd.jpg");   font-family: 'Srisakdi', cursive;
+}
+
+    .container {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.box1{
+    background-color:red;
+    width:100px;
+    height:100px;
+}
+.box2{
+    background-color:black;
+    width:100px;
+    height:100px;
+}
+.box3{
+    background-color:black;
+    width:100px;
+    height:100px;
+}
+.box4{
+    background-color:green;
+    width:100px;
+    height:100px;
+}
